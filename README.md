@@ -8,12 +8,12 @@
 
 <h3 align="center">My favorite languages in order of preference are: Golang > Java > Python > Rust.</h3>
 
-- 🔭 I’m currently working on **Kubernetes**
+<h3 align="center">- 🔭 I’m currently working on **Kubernetes**</h3>
 
-- 🌱 I’m currently learning **Cloud Native**
+<h3 align="center">- 🌱 I’m currently learning **Cloud Native**</h3>
 
-- 📝 I regularly write articles on [https://chasing1020.github.io/](https://chasing1020.github.io/)
+<h3 align="center">- 📝 I regularly write articles on [https://chasing1020.github.io/](https://chasing1020.github.io/)</h3>
 
-- 💬 Ask me about **Golang, Java and Python**
+<h3 align="center">- 💬 Ask me about **Golang, Java and Python**</h3>
 
-- 📫 How to reach me **chasing1020@gmail.com**
+<h3 align="center">- 📫 How to reach me **chasing1020@gmail.com**</h3>

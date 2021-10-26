@@ -2,12 +2,6 @@
 
 <h3>I am a college student majoring in Computer Science in Shanghai University.</h3>
 
-<h3>I like freedom and unrestrained, and don’t like being bound.</h3>
-
-<h3>My main field of study is Back-End Development, Cloud-Native and Microservices.</h3>
-
-<h3>My favorite languages in order of preference are: Golang > Java > Python > Rust.</h3>
-
 - 🔭 I’m currently working on **Kubernetes**</h3>
 
 - 🌱 I’m currently learning **Cloud Native**</h3>

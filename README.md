@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chasing1020</h1>
-<h3 align="center">I am a college student majoring backend development</h3>
+
+<h3 align="center">I am a college student majoring in Computer Science in Shanghai University.</h3>
+
+<h3 align="center">I like freedom and unrestrained, and don’t like being bound.</h3>
+
+<h3 align="center">My main field of study is Back-End Development, Cloud-Native and Microservices.</h3>
+
+<h3 align="center">My favorite languages in order of preference are: Golang > Java > Python > Rust.</h3>
 
 - 🔭 I’m currently working on **Kubernetes**
 

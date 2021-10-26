@@ -12,7 +12,7 @@
 
 <h3 align="center">- 🌱 I’m currently learning **Cloud Native**</h3>
 
-<h3 align="center">- 📝 I regularly write articles on [https://chasing1020.github.io/](https://chasing1020.github.io/)</h3>
+<h3 align="center">- 📝 I regularly write articles on https://chasing1020.github.io/</h3>
 
 <h3 align="center">- 💬 Ask me about **Golang, Java and Python**</h3>
 

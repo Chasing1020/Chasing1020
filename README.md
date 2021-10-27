@@ -26,11 +26,17 @@
  -->
 
 <p>
+<div  class="row">
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasing1020&theme=github_dark&show_icons=true" />
-
+  <div class="column">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasing1020&theme=github_dark&show_icons=true" />
+  </div>
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasing1020&theme=github_dark&show_icons=true&layout=compact&langs_count=8"/>
+  <div class="column">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=chasing1020&theme=github_dark&show_icons=true&layout=compact&langs_count=8"/>
+  </div>
+  
+</div>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasing1020)](https://github.com/anuraghazra/github-readme-stats)

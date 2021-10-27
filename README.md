@@ -12,9 +12,12 @@
 
 - 📫 How to reach me **chasing1020@gmail.com**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chasing1020&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chasing1020&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chasing1020&repo=convoychat" />
 </a>
+ -->

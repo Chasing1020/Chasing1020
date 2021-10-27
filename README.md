@@ -33,7 +33,7 @@
   </div>
 <!-- Most Used Languages -->
   <div class="column">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?   username=chasing1020&theme=github_dark&show_icons=true&layout=compact&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chasing1020&theme=github_dark&show_icons=true&layout=compact&langs_count=8"/>
   </div>
   
 </div>

@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chasing <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h3>I am a college student majoring in Computer Science in Shanghai University.</h3>
+<h3>I am a college student majoring in Computer Science in ShangHai University.</h3>
 
 - 🔭 I’m currently working on **Kubernetes**
 

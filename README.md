@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Compilers**
 
-- 🌱 I’m currently learning **Safety in Systems Programming**
+- 🌱 I’m currently learning **LLVM**
 
 - 📝 I regularly write articles on **https://chasing1020.github.io/**
 

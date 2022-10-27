@@ -2,7 +2,7 @@
 
 <h3>I am a college student majoring in Computer Science in ShangHai University.</h3>
 
-- 🔭 I’m currently working on **Compilers**
+- 🔭 I’m currently working on **Operating System**
 
 - 🌱 I’m currently learning **Rust**
 

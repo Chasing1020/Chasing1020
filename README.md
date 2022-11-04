@@ -10,11 +10,8 @@
 
 - 📫 How to reach me **chasing1020@gmail.com**
 
-<p>
-<div  class="row">
-<!-- GitHub Stats -->
-  <div class="column">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chasing1020&theme=github_dark&show_icons=true" />
-  </div>
-</div>
-</p>
+![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
+
+[![chasing1020's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-profile-trophy.vercel.app/?username=chasing1020&column=4&theme=nord&margin-w=15&margin-h=15">

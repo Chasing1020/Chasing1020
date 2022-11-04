@@ -12,6 +12,4 @@
 
 ![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
 
-[![chasing1020's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-profile-trophy.vercel.app/?username=chasing1020&column=4&theme=nord&margin-w=15&margin-h=15">

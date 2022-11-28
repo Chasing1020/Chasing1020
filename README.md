@@ -8,10 +8,19 @@
 
 ![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
 
+
 <details>
   <summary>
     📈 Some extra stats
   </summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=chasing1020&column=4&theme=nord&margin-w=18&margin-h=15"/>
+</details>
+
+<details>
+  <summary>
+    ⏱ Time tracking of programming activity
+  </summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=github_dark"/>
 </details>

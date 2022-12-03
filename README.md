@@ -19,7 +19,7 @@
 
 <details>
   <summary>
-    ⏱ Time tracking of programming activity
+    ⏱ Time tracking last week
   </summary>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=github_dark"/>

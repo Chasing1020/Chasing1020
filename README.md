@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on my [**Blog**](https://chasing1020.github.io)
 - 📫 How to reach me **chasing1020@gmail.com**
 
-![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
+![chasing1020's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=chasing1020&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
 
 
 <details>
@@ -22,5 +22,5 @@
     ⏱ Time tracking last week
   </summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=github_dark"/>
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/wakatime?username=chasing1020&theme=github_dark"/>
 </details>

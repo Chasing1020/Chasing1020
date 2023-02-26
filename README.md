@@ -6,14 +6,14 @@
 - 📝 I regularly write articles on my [**Blog**](https://chasing1020.github.io)
 - 📫 How to reach me [**chasing1020@gmail.com**](mailto:chasing1020@gmail.com)
 
-![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=darcula&hide_title=true&count_private=true)
+![chasing1020's github stats](https://github-readme-stats.vercel.app/api?username=chasing1020&show_icons=true&theme=transparent&hide_title=true&count_private=true)
 
 <details>
   <summary>
     📈 Some extra stats
   </summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=chasing1020&column=4&theme=nord&margin-w=18&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chasing1020&column=4&theme=onedark&margin-w=18&margin-h=15"/>
 </details>
 
 <details>
@@ -21,5 +21,5 @@
     ⏱ Time tracking last week
   </summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=darcula"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chasing1020&theme=transparent"/>
 </details>

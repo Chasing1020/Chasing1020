@@ -7,6 +7,7 @@
 - 📫 How to reach me [**chasing1020@gmail.com**](mailto:chasing1020@gmail.com)
 
 ![chasing1020's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chasing1020&show_icons=true&theme=transparent&hide_title=true&count_private=true)
+![chasing1020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chasing1020&hide=html,makefile&theme=transparent&langs_count=6&layout=compact&count_private=true)
 
 <details>
   <summary>
@@ -22,4 +23,12 @@
   </summary>
   <br/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=chasing1020&theme=transparent"/>
+</details>
+
+<details>
+  <summary>
+    💻 Top Languages
+  </summary>
+  <br/>
+  
 </details>

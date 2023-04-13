@@ -24,11 +24,3 @@
   <br/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=chasing1020&theme=transparent"/>
 </details>
-
-<details>
-  <summary>
-    💻 Top Languages
-  </summary>
-  <br/>
-  
-</details>

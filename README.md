@@ -1,6 +1,6 @@
 # Hi, I'm Chasing 👋🏻
 
-- 🏫 I'm a CS master candidate at the [**Institute of Computing Technology**](https://ict.cas.cn/) of the [**Chinese Academy of Sciences**](https://www.cas.cn/)
+- 🏫 I'm a CS master candidate at the [**Institute of Computing Technology**](http://ict.cas.cn/) of the [**Chinese Academy of Sciences**](https://www.cas.cn/)
 - 🔭 I'm currently working on [**Kubernetes**](https://github.com/kubernetes/kubernetes), especially on [**Container Network Interface**](https://github.com/containernetworking/cni/blob/main/SPEC.md)
 - 🌱 I'm currently learning [**Rust**](https://www.rust-lang.org/) and [**Chisel3**](https://github.com/chipsalliance/chisel3)
 - 📝 I regularly write articles on my [**Blog**](https://chasing1020.github.io)

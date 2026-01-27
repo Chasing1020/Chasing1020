@@ -1,4 +1,4 @@
-# Hi, I'm Chasing 👋🏻
+# Hi, I'm Chasing🔮
 
 - 🏫 I'm a CS PhD at the [**Institute of Computing Technology**](http://ict.cas.cn/) of the [**Chinese Academy of Sciences**](https://www.cas.cn/)
 - 🔭 My current main research focuses on distributed systems, machine learning systems, and inference optimization of LLMs.

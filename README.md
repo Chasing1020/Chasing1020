@@ -14,7 +14,7 @@
     📈 Some extra stats
   </summary>
   <br/>
-  <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&column=4&theme=flat&margin-w=18&margin-h=15"/>
+  <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&column=4&theme=onedark&margin-w=18&margin-h=15"/>
 </details>
 
 <details>

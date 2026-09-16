@@ -6,21 +6,31 @@
 - 📫 How to reach me [**chasing1020@gmail.com**](mailto:chasing1020@gmail.com)
 - 🐧 [ArchLinux](https://archlinux.org/about/) User | 🎸 [Introverted](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) | 🦉 [Night owl](https://en.wikipedia.org/wiki/Night_owl) | 🎨 [ACG](https://en.wikipedia.org/wiki/ACG_%28subculture%29) fans | 🍺 IP location: [Gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)
 
-![chasing1020's GitHub stats](./profile/stats.svg)
-![chasing1020's top languages](./profile/top-langs.svg)
+<a href="https://ghfind.com/u/chasing1020?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/chasing1020?theme=dark&amp;lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/chasing1020?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 <details>
-  <summary>
-    📈 Some extra stats
-  </summary>
+  <summary>📊 More stats &amp; activity</summary>
   <br/>
-  <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&column=4&theme=onedark&margin-w=18&margin-h=15"/>
-</details>
 
-<details>
-  <summary>
-    ⏱ Time tracking last week
-  </summary>
-  <br/>
-  <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&theme=transparent"/>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="./profile/stats.svg" alt="Chasing's GitHub stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="./profile/top-langs.svg" alt="Chasing's top languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <p>🏆 GitHub Trophies</p>
+  <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&amp;column=4&amp;theme=onedark&amp;margin-w=18&amp;margin-h=15" alt="Chasing's GitHub trophies" />
+
+  <p>⏱ Time tracking last week</p>
+  <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&amp;theme=transparent" alt="Chasing's coding activity last week" />
 </details>

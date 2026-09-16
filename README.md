@@ -13,7 +13,7 @@
   </picture>
 </a>
 
-<details>
+<details open>
   <summary>📊 GitHub Stats &amp; Activity</summary>
   <br/>
 

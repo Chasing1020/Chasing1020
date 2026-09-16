@@ -14,10 +14,14 @@
 </a>
 
 <details>
-  <summary>📊 More stats &amp; activity</summary>
+  <summary>📊 GitHub Stats &amp; Activity</summary>
   <br/>
 
   <table>
+    <tr>
+      <th>📈 GitHub Stats</th>
+      <th>💻 Top Languages</th>
+    </tr>
     <tr>
       <td width="50%" align="center">
         <img src="./profile/stats.svg" alt="Chasing's GitHub stats" width="100%" />
@@ -26,11 +30,17 @@
         <img src="./profile/top-langs.svg" alt="Chasing's top languages" width="100%" />
       </td>
     </tr>
+    <tr>
+      <th>🏆 GitHub Trophies</th>
+      <th>⏱ Coding Activity</th>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&amp;column=4&amp;theme=onedark&amp;margin-w=18&amp;margin-h=15" alt="Chasing's GitHub trophies" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&amp;theme=transparent" alt="Chasing's coding activity last week" width="100%" />
+      </td>
+    </tr>
   </table>
-
-  <p>🏆 GitHub Trophies</p>
-  <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&amp;column=4&amp;theme=onedark&amp;margin-w=18&amp;margin-h=15" alt="Chasing's GitHub trophies" />
-
-  <p>⏱ Time tracking last week</p>
-  <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&amp;theme=transparent" alt="Chasing's coding activity last week" />
 </details>

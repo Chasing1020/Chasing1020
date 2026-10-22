@@ -6,12 +6,12 @@
 - 📫 How to reach me [**chasing1020@gmail.com**](mailto:chasing1020@gmail.com)
 - 🐧 [ArchLinux](https://archlinux.org/about/) User | 🎸 [Introverted](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) | 🦉 [Night owl](https://en.wikipedia.org/wiki/Night_owl) | 🎨 [ACG](https://en.wikipedia.org/wiki/ACG_%28subculture%29) fans | 🍺 IP location: [Gensokyo](https://en.touhouwiki.net/wiki/Gensokyo)
 
-<a href="https://ghfind.com/u/chasing1020?ref=badge">
+<!-- <a href="https://ghfind.com/u/chasing1020?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/chasing1020?theme=dark&amp;lang=zh" />
     <img src="https://ghfind.com/api/card/mini/chasing1020?theme=light&amp;lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
-</a>
+</a> -->
 
 <details open>
   <summary>📊 GitHub Stats &amp; Activity</summary>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&amp;column=4&amp;theme=onedark&amp;margin-w=18&amp;margin-h=15" alt="Chasing's GitHub trophies" width="100%" />
+        <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&column=4&theme=onedark&margin-w=18&margin-h=15&row=2" alt="Chasing's GitHub trophies" width="100%" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&amp;theme=transparent" alt="Chasing's coding activity last week" width="100%" />

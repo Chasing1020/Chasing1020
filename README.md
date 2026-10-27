@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&column=4&theme=onedark&margin-w=18&margin-h=15&row=2" alt="Chasing's GitHub trophies" width="100%" />
+        <img src="https://trophy.ryglcloud.net/api/?username=chasing1020&amp;column=4&amp;theme=onedark&amp;margin-w=18&amp;margin-h=15&amp;row=2" alt="Chasing's GitHub trophies" width="100%" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-seven-theta-18.vercel.app/api/wakatime?username=chasing1020&amp;theme=transparent" alt="Chasing's coding activity last week" width="100%" />
